@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ded/express-limiter",
   "devDependencies": {
-    "express": "4.0.0",
+    "express": "4.17.3",
     "redis": "~0.10.1",
     "mocha": "~1.18.2",
     "chai": "~1.9.1",
